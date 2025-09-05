@@ -1,1 +1,1 @@
-Entrega de la tarea M2A3 donde se modificó una página base de HTML para convertirla en una semántica a lo que vimos en clase, gracias a las etiquetas de "<header>, <nav>, <main>, <aside>, <footer>" como las principales; entre otras como "<time>, <blockquote>, <article>, <address>", etc.
+Entrega de la tarea M2A3 donde se modificó una página base de HTML para convertirla en una semántica a lo que vimos en clase, gracias a las etiquetas de header, nav, main, aside, footer como las principales; entre otras como time, blockquote, article, address, etc.
